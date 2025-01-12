@@ -1,6 +1,9 @@
 Waterfall
 =========
 
+This is a fork of the official Waterfall project. I simply replaced the Waterfall branding with FrameCord to align with the server's theme.
+
+
 > [!CAUTION]
 > This project has reached end of life and is no longer maintained.  
 > We recommend you transition to [Velocity](https://papermc.io/software/velocity). For more information, see the [announcement](https://forums.papermc.io/threads/1088/).
