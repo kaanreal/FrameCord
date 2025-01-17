@@ -1,4 +1,4 @@
-Waterfall
+FraneCord
 =========
 
 This is a fork of the official Waterfall project. I simply replaced the Waterfall branding with FrameCord to align with the server's theme.
