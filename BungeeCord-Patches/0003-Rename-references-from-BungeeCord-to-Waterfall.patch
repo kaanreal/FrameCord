@@ -57,7 +57,7 @@ index 7281d6b2..39fc55f9 100644
          BungeeCord bungee = new BungeeCord();
          ProxyServer.setInstance( bungee );
 -        bungee.getLogger().info( "Enabled BungeeCord version " + bungee.getVersion() );
-+        bungee.getLogger().info( "Enabled Waterfall version " + bungee.getVersion() );
++        bungee.getLogger().info( "Enabled FrameCord version - 1.0 ");
          bungee.start();
  
          if ( !options.has( "noconsole" ) )
